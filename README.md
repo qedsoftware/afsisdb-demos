@@ -14,6 +14,14 @@ Background
 
 Because AfSIS DB runs on the web, it is cross-platform compatible. At the time of this writing, AfSIS DB now stores over 175,000 records of soil chemistry measurements unique to Africa, mostly from the AfSIS Phase II focus contries of Tanzania, Ghana, Nigeria, and Ethiopia. 
 
+You are also invited to view our tutorial videos on YouTube:
+
+[![Introduction to AfSIS DB](https://qed.ai/afsisdb/QED_Intro_AfSISDB.jpg)](https://www.youtube.com/watch?v=CswaipfQxCs "Introduction to AfSIS DB")
+
+[![Using the AfSIS DB API](https://qed.ai/afsisdb/QED_Using_AfSISDB_API.jpg)](https://www.youtube.com/watch?v=z46n1yaSXhU "Using the AfSIS DB API")
+
+
+
 Installation
 ==
 We use Jupyter notebooks to present these demonstrations cleanly with flavortext interspersed within code. If you do not wish to set up your local development environment for Jupyter notebooks, you can use the raw Python and R exports, and/or use https://nbviewer.jupyter.org/ to render an HTML version of these Jupyter notebooks in your browser.
