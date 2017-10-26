@@ -16,9 +16,9 @@ Because AfSIS DB runs on the web, it is cross-platform compatible. At the time o
 
 You are also invited to view our tutorial videos on YouTube:
 
-[![Introduction to AfSIS DB](https://qed.ai/afsisdb/QED_Intro_AfSISDB.jpg)](https://www.youtube.com/watch?v=CswaipfQxCs "Introduction to AfSIS DB")
+[![Introduction to AfSIS DB](https://qed.ai/afsisdb_images/QED_Intro_AfSISDB.jpg)](https://www.youtube.com/watch?v=CswaipfQxCs "Introduction to AfSIS DB")
 
-[![Using the AfSIS DB API](https://qed.ai/afsisdb/QED_Using_AfSISDB_API.jpg)](https://www.youtube.com/watch?v=z46n1yaSXhU "Using the AfSIS DB API")
+[![Using the AfSIS DB API](https://qed.ai/afsisdb_images/QED_Using_AfSISDB_API.jpg)](https://www.youtube.com/watch?v=z46n1yaSXhU "Using the AfSIS DB API")
 
 
 
